@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    min-height: 100vh;
+
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+header nav{
+    width: 100%;
+    border: 1px solid black;
+    
+}
+
+header nav li{
+text-align: center;
+
+
+}
+
+header nav li a{
+    text-decoration: none;
+    list-style: none;
+
+
+}
+
+
+
+
+
+
+
